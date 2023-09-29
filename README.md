@@ -15,4 +15,4 @@ Você pode começar editando a página por modificar o `src/app/page.tsx`. A pá
 Este projeto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para carregar e otimizar a Inter, uma Google Font alternativa.
 
 Também conta com [`PrimeReact`](https://primereact.org/) como pacote de componentes preparados para serem utilizados.
-Além de [`PrimeFlex`](https://primeflex.org/) como framework css para agilizar a estilização com classe. E [PrimeIcon](https://primereact.org/icons/) como biblioteca de ícones.
+Além de [`PrimeFlex`](https://primeflex.org/) como framework css para agilizar a estilização com classe. E [`PrimeIcon`](https://primereact.org/icons/) como biblioteca de ícones.
